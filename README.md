@@ -27,6 +27,6 @@ RotaryKeyboard is a lightweight Arduino library for creating menus and character
 
 
 Check the `examples/StarterMenu` folder for a fully working example.
-
+There is a simulation ready for copying at [RotaryKeyboard Simulation](https://wokwi.com/projects/441642530815823873)
 
 
